@@ -1,0 +1,3 @@
+D:/Projects/SafeBoard/WebsiteGenerator/cmake-build-debug/CMakeFiles/WebsiteGenerator.dir
+D:/Projects/SafeBoard/WebsiteGenerator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/SafeBoard/WebsiteGenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
