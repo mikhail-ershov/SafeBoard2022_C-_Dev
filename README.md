@@ -1,2 +1,2 @@
-# Gemini to HTML 
+# Gemini to HTML converter
 
